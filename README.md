@@ -46,7 +46,7 @@ To perform inference using the trained model, follow these steps:
 ```bash
 $ git clone https://github.com/ardhikaptr11/pcos-detection.git
 ```
-2. Extract the contents of `pcos_savedmodel.zip` file. This archive contains the saved model and necessary files for inference.
+2. Extract the contents of `pcos-savedmodel.zip` file. This archive contains the saved model and necessary files for inference.
 3. Open a terminal and navigate to the project directory.
 4. Run the `inference.py` script:
 ```
