@@ -1,7 +1,7 @@
 # **PCOS Pal**
 
 <p align="center">
-  <img src="Project Description/pcos-pal-mockups.jpg">
+  <img src="https://github.com/ardhikaptr11/pcos-detection/blob/main/Project%20Description/pcos-pal-mockups.jpg">
 </p>
 
 ## Problem Background
@@ -26,5 +26,5 @@ In this way, our project can actually be implemented and released so that people
 
 ## Project Documents
 You can read about our project in details here:
-- Project Plan : [https://docs.google.com/document/d/1cC_hGZdPQ49TFWlhWqNW-y_tzKcKuhQ8/edit?usp=sharing&ouid=108722649405953891947&rtpof=true&sd=true]
-- Presentation : [PCOS Pal.pptx]()
+- Project Plan : https://docs.google.com/document/d/1cC_hGZdPQ49TFWlhWqNW-y_tzKcKuhQ8/edit?usp=sharing&ouid=108722649405953891947&rtpof=true&sd=true
+- Presentation : [PCOS Pal.pptx](https://github.com/ardhikaptr11/pcos-detection/blob/main/Project%20Description/PCOS%20Pal%20Presentation.pptx)
