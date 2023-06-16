@@ -21,10 +21,20 @@ PCOS Pal is a groundbreaking app designed exclusively for women. We want to empo
 ![Alt Text](https://github.com/ardhikaptr11/pcos-detection/blob/main/Project%20Description/demo-apps-min.gif)
 
 ## Future Development
-Our hope is to develop the apps in more advance such as improve the model so they can give more accurate prediction, add more useful features, etc.
-In this way, our project can actually be implemented and released so that people can feel the benefits.
+Our application is not completely finished and we are still trying to develop it. We hope to develop this app further such as improving the model so that it can provide more accurate predictions, adding more useful features etc. Thus, we hope that our project can actually be implemented and released so that people can feel the benefits.
 
 ## Project Documents
-You can read about our project in details here:
+You can read about our project in more details here:
 - Project Plan : https://docs.google.com/document/d/1cC_hGZdPQ49TFWlhWqNW-y_tzKcKuhQ8/edit?usp=sharing&ouid=108722649405953891947&rtpof=true&sd=true
 - Presentation : [PCOS Pal.pptx](https://github.com/ardhikaptr11/pcos-detection/blob/main/Project%20Description/PCOS%20Pal%20Presentation.pptx)
+
+## Capstone Project Team
+
+| Name                          | Bangkit-ID    | Github-Profile                      | Role                |
+| ----------------------------- | ------------- | ----------------------------------- | ------------------- |
+| I Putu Crisna Putra Ardhika   | M038DSX1910   | [ardhikaptr11](https://github.com/ardhikaptr11) | Machine Learning    |
+| Farhan Yusuf                  | M304DSX3448   | [Mustachy](https://github.com/Mustachy/)                                 | Machine Learning    |
+| Muhammad Jalu Herlambang      | M038DKX3930   | [jaluherlambang](https://github.com/jaluherlambang)                                  | Machine Learning    |
+| Farhan Habib                  | C304DSX2856   | [habib-74](https://github.com/habib-74)                                  | Cloud Computing     |
+| Mordekhai Gerine Lumangkun    | C305DSX3409   | [gerinmodekhai](https://github.com/gerinmordekhai)                                   | Cloud Computing     |
+| Benny Daniel Bahari           | A304DSX1116   | [bhribnnY](https://github.com/bhribnnY)                                   | Mobile Development  |
